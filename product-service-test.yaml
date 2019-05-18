@@ -23,5 +23,5 @@ server:
 #   instance:
 #     preferIpAddress: true
 #     instance-id: ${spring.cloud.client.ipAddress}:${server.port}:${spring.application.name}
-env: test1
+env: test2
 branch: master
