@@ -23,5 +23,5 @@ eureka:
   instance:
     preferIpAddress: true
     instance-id: ${spring.cloud.client.ipAddress}:${server.port}:${spring.application.name}
-env: test
+env: test1
 branch: master
